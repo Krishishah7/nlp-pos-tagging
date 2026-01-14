@@ -24,14 +24,16 @@ Natural Language Processing helps computers understand human language.
 ## 📌 POS Tag Output (Example)
 
 Each word is assigned a POS tag indicating its grammatical role:
-Natural → JJ
-Language → NN
-Processing → NN
-helps → VBZ
-computers → NNS
-understand → VB
-human → JJ
-language → NN
+
+- Natural → JJ  
+- Language → NN  
+- Processing → NN  
+- helps → VBZ  
+- computers → NNS  
+- understand → VB  
+- human → JJ  
+- language → NN  
+
 
 ---
 
